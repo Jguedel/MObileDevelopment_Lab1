@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2_HungryFull</string>
+    <string name="hungry">"I'm so hungry!!"</string>
+    <string name="full">Im so full</string>
+    <string name="hungryBtn">Eat Cookie</string>
+    <string name="fullBtn">Done</string>
+</resources>
